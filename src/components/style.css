@@ -1,0 +1,12 @@
+ .bordergray {
+  border:'2px solid #ccc',;
+  padding:'40px';
+  border-radius:'8px';
+  cursor:'pointer'
+}
+ .borderbrown  {
+  border:'2px solid #d5b27c',;
+  padding:'40px';
+  border-radius:'8px';
+  cursor:'pointer'
+};
